@@ -1,0 +1,10 @@
+[
+  {
+    "waktu": "14/02/2026, 10:30:45",
+    "target_user": "userid_example",
+    "tipe_transaksi": "DEPOSIT (+)",
+    "nominal": 50000,
+    "saldo_akhir": 50000,
+    "eksekutor": "admin"
+  }
+]

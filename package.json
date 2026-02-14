@@ -1,0 +1,38 @@
+{
+  "name": "airbot-blueprint",
+  "version": "2.0.0",
+  "description": "AirBot - WhatsApp Bot Blueprint | Rancangan Sistem Scan & Generate Barcode IMEI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js --max-old-space-size=4096",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "airbot",
+    "whatsapp-bot",
+    "imei-checker",
+    "barcode-generator",
+    "blueprint",
+    "rancangan"
+  ],
+  "author": "WiznAlgo",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "6.6.0",
+    "archiver": "^5.3.0",
+    "axios": "^1.4.0",
+    "canvas": "^2.11.2",
+    "chalk": "^5.3.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.13",
+    "moment-timezone": "^0.5.43",
+    "node-cache": "^5.1.2",
+    "node-webpmux": "^3.1.7",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "tesseract.js": "^5.0.3"
+  }
+}

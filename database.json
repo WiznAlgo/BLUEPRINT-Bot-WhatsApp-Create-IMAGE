@@ -1,0 +1,24 @@
+{
+  "users": {
+    "userid_example_1@lid": {
+      "saldo": 50000,
+      "nama": "User Premium",
+      "vip": true
+    },
+    "userid_example_2@s.whatsapp.net": {
+      "saldo": 100000,
+      "nama": "User Regular",
+      "vip": false
+    }
+  },
+  "settings": {
+    "scan": 0,
+    "filter8": 2000,
+    "barcode_acak": 1000,
+    "barcode_custom": 10000,
+    "vip_barcode_acak": 1000,
+    "vip_barcode_custom": 5000,
+    "android_acak": 1200,
+    "android_custom": 10000
+  }
+}
