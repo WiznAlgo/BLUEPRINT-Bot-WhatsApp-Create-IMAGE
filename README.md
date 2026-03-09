@@ -219,16 +219,16 @@ Edit di `config.js` atau `database.json`:
 
 ---
 
-## 🔐 Security Notes
+## Security Notes
 
-- ✅ API keys di `config.js` - simpan di `.env` untuk production
-- ✅ Owner list di `config.js` - validasi sebelum eksekusi command admin
-- ✅ Database JSON - consider MongoDB untuk skala besar
-- ✅ Session folder - jangan upload ke git (add ke `.gitignore`)
+- API keys di `config.js` - simpan di `.env` untuk production
+- Owner list di `config.js` - validasi sebelum eksekusi command admin
+- Database JSON - consider MongoDB untuk skala besar
+- Session folder - jangan upload ke git (add ke `.gitignore`)
 
 ---
 
-## 📝 File Size & Memory
+## File Size & Memory
 
 - **Code**: ~200KB (blueprint saja, implementasi akan lebih besar)
 - **Memory**: 3GB default (configurable di `index.js`)
@@ -236,13 +236,13 @@ Edit di `config.js` atau `database.json`:
 
 ---
 
-## 🤝 Contribution & Support
+## Contribution & Support
 
 Project ini adalah **blueprint rancangan** oleh **WiznAlgo** untuk portofolio freelance.
 
 ---
 
-## 📄 License
+## License
 
 GPL-3.0-or-later
 
